@@ -2,7 +2,7 @@ THE RAINBOW
 PURPLE
 PINK
 BLUE
-YELLOW 
+YELLOW colour added
 green
 gray
 ORANGE
